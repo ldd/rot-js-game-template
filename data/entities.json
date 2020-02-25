@@ -1,0 +1,17 @@
+[
+  {
+    "glyph": "T",
+    "fg": "green",
+    "props": { "movable": true, "damageable": true },
+    "stats": { "maxHP": 3 }
+  },
+  {
+    "glyph": "T",
+    "fg": "green",
+    "props": { "movable": true, "damageable": true }
+  },
+  {
+    "props": { "controllable": true, "damageable": true },
+    "stats": { "maxHP": 5 }
+  }
+]

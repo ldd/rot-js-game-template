@@ -1,0 +1,10 @@
+{
+  "extends": "tslint:recommended",
+  "rules": {
+    "completed-docs": [true, "functions"],
+    "member-ordering": [true, { "order": "fields-first" }],
+    "ordered-imports": true,
+    "no-consecutive-blank-lines": false,
+    "no-console": { "severity": "warning" }
+  }
+}
